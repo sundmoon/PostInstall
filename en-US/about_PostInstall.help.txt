@@ -1,0 +1,17 @@
+﻿TOPIC
+    about_PostInstall
+
+SHORT DESCRIPTION
+    Post installation DSC based tasks instead of using unatend.xml
+
+LONG DESCRIPTION
+    Post installation DSC based tasks instead of using unatend.xml
+
+EXAMPLES
+    TBD
+
+KEYWORDS
+    DSC
+
+SEE ALSO
+    https://github.com/sundmoon/PostInstall
